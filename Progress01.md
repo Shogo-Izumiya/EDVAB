@@ -14,10 +14,14 @@
 
 ## 活動概要
 New words came up:
-  -local LLMs... Runs in a local environment, such as a PC or on-premise server, rather than in a cloud environment.\n
-  It is characterized by the fact that it does not require an Internet connection, and all data can be completed at your fingertips. This provides advantages such as privacy and optimization for specific applications.\n
-  -cloud LLMs... The model is large in size and has a high information processing speed. Because it is connected to the Internet, it constantly receives the latest information and learns on its own. On the other hand, it is only available in environments where Internet access is required, and privacy is lower than local LLMs.\n
-  -Ollama... A tool that simplifies running open-source large language models directly on our own computer.
+
+・local LLMs... Runs in a local environment, such as a PC or on-premise server, rather than in a cloud environment.
+
+It is characterized by the fact that it does not require an Internet connection, and all data can be completed at your fingertips. This provides advantages such as privacy and optimization for specific applications.
+
+・cloud LLMs... The model is large in size and has a high information processing speed. Because it is connected to the Internet, it constantly receives the latest information and learns on its own. On the other hand, it is only available in environments where Internet access is required, and privacy is lower than local LLMs.
+  
+・Ollama... A tool that simplifies running open-source large language models directly on our own computer.
 
 Implemented local generative AI using Ollama as a platform and Deepseek as a model. I downloaded Ollama and a model. Deepseek was interesting and a bit scary because it didn't hide any thouhghts for answering my prompts. I found that's how it goes if there is no filter of AI.
 
