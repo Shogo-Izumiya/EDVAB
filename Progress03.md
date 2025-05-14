@@ -28,6 +28,7 @@ https://github.com/katsumiok/llm-book
 https://www.promptingguide.ai/jp/introduction/settings
 
 ## 活動予定
+- Keep reading the book and try codes on it.
 
 - 研究活動
 
